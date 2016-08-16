@@ -19,4 +19,10 @@
 
 <platform name="android" />
 
+<access origin="*" />
+
+<!-- Allow links to web pages to open in a browser -->
+<allow-intent href="http://*/*" />
+<allow-intent href="https://*/*" />
+
 </widget>
