@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.suttercorps.HelloWorld"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>HelloWorls</name>
+
+  <description>
+      My first HelloWorld mobile app.
+  </description>
+
+  <author>
+      Sutter Corps
+  </author>
+
+<platform name="android" />
+
+</widget>
